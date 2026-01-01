@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VDD Pin=U1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-2
+Removed Pin From Net: NetName=NetR_SET1_1 Pin=U1-3
+Removed Pin From Net: NetName=NetR_AIN_2 Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=NetP_OUT_1 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Added Component: Designator=U1(FP-S6-6-05-08-1636-IPC_B)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "3.81Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125ÅãC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55ÅãC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "365uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TimerBloxR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR_AIN_2 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetR_SET1_1 Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Pin To Net: NetName=VDD Pin=U1-5
+Added Pin To Net: NetName=NetP_OUT_1 Pin=U1-6
