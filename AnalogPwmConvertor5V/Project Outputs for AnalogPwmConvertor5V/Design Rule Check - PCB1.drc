@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Sosuke Ichihashi\Documents\Altium\Altium_5vain_to_5vpwm\AnalogPwmConvertor5V\PCB1.PcbDoc
+Date     : 1/4/2026
+Time     : 5:28:36 AM
+
+Processing Rule : Clearance Constraint (Gap=12mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=30mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (126mil > 100mil) Pad Free-(3125.729mil,3378.688mil) on Multi-Layer Actual Hole Size = 126mil
+   Violation between Hole Size Constraint: (126mil > 100mil) Pad Free-(3560.123mil,4226.042mil) on Multi-Layer Actual Hole Size = 126mil
+   Violation between Hole Size Constraint: (126mil > 100mil) Pad Free-(4515.218mil,4225.971mil) on Multi-Layer Actual Hole Size = 126mil
+   Violation between Hole Size Constraint: (126mil > 100mil) Pad Free-(4515.231mil,3378.99mil) on Multi-Layer Actual Hole Size = 126mil
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Arc (3960.025mil,3723.144mil) on Top Overlay And Pad U1-1(4004.114mil,3723.143mil) on Top Layer [Top Overlay] to [Top Solder] clearance [9.842mil]Waived by Sosuke Ichihashi at 1/4/2026 2:38:16 AMIt was made by the component manufacturer.
+Waived Violations :1
+
+
+Violations Detected : 4
+Waived Violations : 1
+Time Elapsed        : 00:00:01
