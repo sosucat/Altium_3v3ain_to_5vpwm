@@ -1,4 +1,4 @@
-# Altium_5vain_to_5vpwm
+# Altium_3v3ain_to_5vpwm
 Altium project files for a 3.3V analog to 5V pwm (4kHz) convertor using [LTC6992-1](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6992-1-6992-2-6992-3-6992-4.pdf).
 This enables 3.3V ILDA DACs (e.g., [Helios DAC](https://bitlasers.com/helios-laser-dac/)) to control PWM-based industry lasers.
 For 5V-based ILDA DACs, you want to look for commercially-available 5V analog-pwm converters.
