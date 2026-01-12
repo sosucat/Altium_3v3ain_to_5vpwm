@@ -1,0 +1,31 @@
+Altium Designer Pick and Place Locations
+C:\Users\Sosuke Ichihashi\Documents\Altium\Altium_5vain_to_5vpwm\AnalogPwmConvertor5V\Project Outputs for AnalogPwmConvertor5V\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/01/26
+Time:       21:10
+Revision:   100a7d734dde0e2572609238a6f78307ed140b04
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Description"
+"AIN","86.1067mm","93.6450mm","TopLayer","270","Male Header, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk"
+"C_DPL1","106.1720mm","93.3450mm","TopLayer","90","Ceramic Capacitor for Automotive 100nF Å}10% 100VDC X7R 0805 Embossed T/R"
+"C_IN","98.6906mm","101.5340mm","TopLayer","270","Ceramic Capacitor for Automotive 330nF  Å}10% 50VDC X7R 0805 Paper T/R"
+"C_OUT","97.6136mm","96.5200mm","TopLayer","0","Ceramic Capacitor for Automotive 100nF Å}10% 100VDC X7R 0805 Embossed T/R"
+"D1","90.4113mm","99.7312mm","TopLayer","270","3.2 W Plastic Surface Mount, 2-Pin POWERMITE, Pb-Free, Tape and Reel"
+"PWM","108.0770mm","99.6750mm","TopLayer","90","Male Header, Pitch 2.5 mm, 1 x 2 Position, Height 6.1 mm, Tail Length 3.4 mm, -25 to 85 degC, RoHS, Bulk"
+"R1","107.8230mm","88.9709mm","TopLayer","270","Automotive Metal Thin Film Chip Resistor, 0805, 1MÉ∂, 0.1%, 25ppm/ÅãC, 0.125W, 150V"
+"R2","105.2257mm","88.9956mm","TopLayer","270","Automotive Metal Thin Film Chip Resistor, 0805, 280kÉ∂, 0.1%, 25ppm/ÅãC, 0.125W, 150V"
+"R_AIN","97.6136mm","90.2709mm","TopLayer","0",""
+"R_BIAS","97.5144mm","93.4838mm","TopLayer","0","RES 100K OHM 0.1% 1/8W 0805"
+"R_G","97.6136mm","87.3279mm","TopLayer","0",""
+"R_POT","92.2740mm","91.2207mm","TopLayer","0","TRIMMER 2K OHM 0.5W PC PIN TOP"
+"R_SET1","100.8380mm","89.2456mm","TopLayer","270","RES 150K OHM 0.1% 1/8W 0805"
+"R_SET2","102.8700mm","89.2456mm","TopLayer","90",""
+"R_VIN","87.2490mm","102.1590mm","TopLayer","0",""
+"U1","102.8700mm","93.6179mm","TopLayer","0","IC OSC SILICON PROG TSOT23-6"
+"U2","95.2983mm","100.5840mm","TopLayer","180","Positive Voltage Regulator, 5V, 4-Pin SOT-89, Tape and Reel"
+"24V","81.1530mm","104.1400mm","TopLayer","270","PCB Terminal Block, 13.5 A, 400 V, 2-Pin THD, RoHS, Bulk"

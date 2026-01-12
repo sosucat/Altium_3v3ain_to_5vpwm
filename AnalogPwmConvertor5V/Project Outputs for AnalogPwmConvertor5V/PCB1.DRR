@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB1.PcbDoc   1/12/2026  2:43:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1.TXT
+EIA File   : PCB1.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             37        PTH        8.60inch (218.32mm)
+T2      28mil (0.701mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T3      35mil (0.899mm)                                           Round             4         PTH        1.07inch (27.25mm)
+T4      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        2.75inch (69.96mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              50
+Via Type 1b : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB1_Type_1b.TXT
+EIA File   : PCB1_Type_1b.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T6      12mil (0.305mm)                                           Round             37        PTH        8.60inch (218.32mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Via Type 1b Totals                                                                  37
+
+Total Processing Time (hh:mm:ss) : 00:00:00
